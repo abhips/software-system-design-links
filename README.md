@@ -8,6 +8,6 @@ A list of useful system design links
  4. [Reddit database community](https://www.reddit.com/r/Database/)
  5. [Rabbit MQ - Queue/Job Scheduler](https://www.rabbitmq.com/getstarted.html)
  6. [Event Driven architecture](https://dev.to/heroku/how-stream-processing-makes-your-event-driven-architecture-even-better-5ehg)
- 
+ 7. [Quick architecture prototyping examples](https://hackernoon.com/five-architectures-you-can-quickly-prototype-on-paas-lz1432ky)
  
  
