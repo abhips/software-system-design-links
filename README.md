@@ -6,5 +6,6 @@ A list of useful system design links
  2. [https://stevesouders.com/](https://stevesouders.com/)
  3. [Caching best practices](https://jakearchibald.com/2016/caching-best-practices/)
  4. [Reddit database community](https://www.reddit.com/r/Database/)
+ 5. [Rabbit MQ - Queue/Job Scheduler](https://www.rabbitmq.com/getstarted.html)
  
  
