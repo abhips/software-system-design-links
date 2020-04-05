@@ -15,3 +15,4 @@ A list of useful system design links
  10. [Chat app architecture](https://hackernoon.com/how-to-send-a-cat-via-a-chat-or-chat-architecture-in-a-nutshell-3o2v32jl)
  11. [Software architecture - Yellow](https://yellow.systems/blog)
  12. [Software architecture - dev.io](https://dev.to/search?q=software%20architecture)
+ 13. [Microservices patterns](https://hackernoon.com/learning-these-5-microservice-patterns-will-make-you-a-better-engineer-52fc779c470a)
