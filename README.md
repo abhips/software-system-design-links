@@ -13,4 +13,5 @@ A list of useful system design links
  8. [Software architecture 101](https://hackernoon.com/how-to-design-a-web-application-software-architecture-101-eecy36o5)
  9. [High scalability](http://highscalability.com/)
  10. [Chat app architecture](https://hackernoon.com/how-to-send-a-cat-via-a-chat-or-chat-architecture-in-a-nutshell-3o2v32jl)
- 11. [Software architecture blog by Yellow](https://yellow.systems/blog)
+ 11. [Software architecture - Yellow](https://yellow.systems/blog)
+ 12. [Software architecture - dev.io](https://dev.to/search?q=software%20architecture)
