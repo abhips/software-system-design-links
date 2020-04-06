@@ -18,3 +18,4 @@ A list of useful system design links
  13. [Microservices patterns](https://hackernoon.com/learning-these-5-microservice-patterns-will-make-you-a-better-engineer-52fc779c470a)
  14. [You are not google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)
  15. [Stackoverflow architecture - 2016](https://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/)
+ 16. [GraphQL community content](https://graphql.org/community/)
