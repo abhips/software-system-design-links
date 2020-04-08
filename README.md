@@ -23,3 +23,6 @@ A list of useful system design links
  18. [GraphQL community content](https://graphql.org/community/)
  19. [Hackernoon](https://hackernoon.com)
 
+## Microservice VS Monolithic Architecture
+1. [Architecture for MVP](https://hackernoon.com/if-youre-thinking-about-microservices-for-an-mvp-you-re-probably-doing-it-wrong-6fef8341fce4)
+
