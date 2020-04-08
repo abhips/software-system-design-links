@@ -2,7 +2,7 @@
 
 A list of useful system design links
 
- 0. [Hackernoon](https://hackernoon.com)
+ 0. [How to become a software architecture](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
  1. [Fundamentals of System Design](https://medium.com/hackernoon/fundamentals-of-system-design-part-0-b3e2fe45daec)
  2. [https://stevesouders.com/](https://stevesouders.com/)
  3. [Caching best practices](https://jakearchibald.com/2016/caching-best-practices/)
@@ -21,3 +21,5 @@ A list of useful system design links
  16. [GraphQL](https://graphql.org/)
  17. [graphql for beginners](https://www.freecodecamp.org/news/a-beginners-guide-to-graphql-86f849ce1bec/)
  18. [GraphQL community content](https://graphql.org/community/)
+ 19. [Hackernoon](https://hackernoon.com)
+
