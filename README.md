@@ -28,3 +28,6 @@ A list of useful system design links
 1. [Suitable architecture for MVP](https://hackernoon.com/if-youre-thinking-about-microservices-for-an-mvp-you-re-probably-doing-it-wrong-6fef8341fce4)
 2. [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
 
+## Authentication and Authorization
+1. [JWT tokens basics](https://blog.angular-university.io/angular-jwt/)
+2. [JWT examples with Rails](https://www.pluralsight.com/guides/token-based-authentication-with-ruby-on-rails-5-api)
