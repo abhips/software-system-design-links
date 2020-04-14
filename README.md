@@ -31,3 +31,6 @@ A list of useful system design links
 ## Authentication and Authorization
 1. [JWT tokens basics](https://blog.angular-university.io/angular-jwt/)
 2. [JWT examples with Rails](https://www.pluralsight.com/guides/token-based-authentication-with-ruby-on-rails-5-api)
+
+## Generic Reading and Examples
+1. [Developing a flash sale system](https://hackernoon.com/developing-a-flash-sale-system-7481f6ede0a3)
