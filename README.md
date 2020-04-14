@@ -24,6 +24,8 @@ A list of useful system design links
  19. [Hackernoon](https://hackernoon.com)
  20. [Software Architecture Guide](https://martinfowler.com/architecture/) 
 
+## Fundamentals
+
 ## Microservice VS Monolithic Architecture
 1. [Suitable architecture for MVP](https://hackernoon.com/if-youre-thinking-about-microservices-for-an-mvp-you-re-probably-doing-it-wrong-6fef8341fce4)
 2. [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
