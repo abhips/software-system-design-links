@@ -39,4 +39,5 @@ A list of useful system design links
 2. [JWT examples with Rails](https://www.pluralsight.com/guides/token-based-authentication-with-ruby-on-rails-5-api)
 
 ## Generic Reading and Examples
-1. [Developing a flash sale system](https://hackernoon.com/developing-a-flash-sale-system-7481f6ede0a3)
+1. [Designing a mission critical api with almost zero downtime](https://hackernoon.com/designing-a-mission-critical-api-serving-millions-of-requests-per-month-575d850fb41f)
+2. [Developing a flash sale system](https://hackernoon.com/developing-a-flash-sale-system-7481f6ede0a3)
