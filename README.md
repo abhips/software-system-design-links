@@ -2,7 +2,6 @@
 
 A list of useful system design links
 
- 0. [How to become a software architecture](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
  1. [Fundamentals of System Design](https://medium.com/hackernoon/fundamentals-of-system-design-part-0-b3e2fe45daec)
  2. [https://stevesouders.com/](https://stevesouders.com/)
  3. [Caching best practices](https://jakearchibald.com/2016/caching-best-practices/)
@@ -25,6 +24,7 @@ A list of useful system design links
  20. [Software Architecture Guide](https://martinfowler.com/architecture/) 
 
 ## Fundamentals
+1. [How to become a software architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
 
 ## Databases
 
