@@ -30,6 +30,12 @@ A list of useful system design links
 
 ## Queues and Message Brokers
 
+## Event-Driven Architecture
+1. [The Many Meanings of Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0) 
+2. [Pattern: Event sourcing](https://microservices.io/patterns/data/event-sourcing.html)
+3. [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
+4. [Event Sourcing - Greg Young](https://www.youtube.com/watch?v=8JKjvY4etTY)
+
 ## Microservice Architecture
 1. [Microservices Blog - Chris Richardson](https://microservices.io/)
 2. [Microservices Resource Guide - Martin Flower](https://martinfowler.com/microservices/)
