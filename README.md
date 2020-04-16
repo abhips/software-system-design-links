@@ -32,6 +32,8 @@ A list of useful system design links
 
 ## Microservice Architecture
 1. [Microservices Blog - Chris Richardson](https://microservices.io/)
+2. [Microservices Resource Guide - Martin Flower](https://martinfowler.com/microservices/)
+3. [Managing Data in Microservices](https://www.infoq.com/presentations/microservices-data-centric/)
 
 ## Microservice VS Monolithic Architecture
 1. [Suitable architecture for MVP](https://hackernoon.com/if-youre-thinking-about-microservices-for-an-mvp-you-re-probably-doing-it-wrong-6fef8341fce4)
